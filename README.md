@@ -65,7 +65,7 @@ This repository will be updated incrementally. Each update will preserve prior v
 ## Contact and governance
 Maintained by: **2EQ Project**  
 License: **Creative Commons Attribution 4.0 (CC BY 4.0)**  
-Contact: *to be added*
+Contact: *2eq.org@gmail.com*
 
 ---
 
