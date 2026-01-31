@@ -19,11 +19,11 @@ This is **not** a self-help program, not a belief system, and not a claim of est
 
 ## How to use this repository
 Start with:
-- **Definitions** — controlled vocabulary used consistently throughout
-- **Central Claim** — the minimal form of the hypothesis and its scope limits
-- **Predictions & Falsifiers** — what would weaken or disprove the claim
-- **Skeptical Case** — a steelman critique written from a hostile-but-honest perspective
-- **Case Reports** — anecdotal reports, clearly labeled as non-evidence
+- **Definitions:** https://2eq-org.github.io/2eq-kb/definitions/
+- **Central Claim:** https://2eq-org.github.io/2eq-kb/central-claim/
+- **Predictions & Falsifiers:** https://2eq-org.github.io/2eq-kb/predictions-falsifiers/
+- **Skeptical Case:** https://2eq-org.github.io/2eq-kb/skeptical-case/
+- **Case Reports (Anecdotal):** https://2eq-org.github.io/2eq-kb/case-reports/
 
 The structure is designed to support **serious evaluation**, not persuasion.
 
