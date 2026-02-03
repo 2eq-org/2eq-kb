@@ -15,9 +15,19 @@ Where possible, key concepts are summarized in HTML elsewhere in this knowledge 
 The following documents are considered **core reference materials** for understanding the origins and structure of 2EQ-related claims - bearing in mind that these volumes were produced for general readership, not scientific brevity or rigour.
 
 ### 2eq Core Brief
+- Description: The Singular Motivational Subversion Hypothesis outlined in simple form (for scientists).
+- Status: Source document
+- Notes: Designed as an initial entry point for serious thinkers and researchers.
+
+### 2eq Executive Strike Brief
 - Description: The Singular Motivational Subversion Hypothesis outlined in its simplest possible form (for scientists).
 - Status: Source document
 - Notes: Designed as an initial entry point for serious thinkers and researchers.
+
+### 2eq Hostile Skeptical Rebuttal
+- Description: The Singular Motivational Subversion Hypothesis - a Steelman Critique (for scientists).
+- Status: Source document
+- Notes: Designed as a resource for serious thinkers and researchers wishing to test the framework.
 
 ### 2EQ — The Second Equilibrium
 - Description: A brief and recent (AI assisted) primary exposition of the two-equilibrium model.
@@ -30,7 +40,7 @@ The following documents are considered **core reference materials** for understa
 - Notes: Descriptive framework; interpretive.
 
 ### Organic Psychology
-- Description: The earliest (first) full length broader framing of epistemic and cultural implications.
+- Description: The earliest (first) full length framing of epistemic and cultural implications.
 - Status: Source document
 - Notes: Contextual and philosophical.
 
@@ -39,18 +49,8 @@ The following documents are considered **core reference materials** for understa
 - Status: Source document
 - Notes: Contextual and philosophical.
 
-### First Base — 2EQ
-- Description: Introductory material outlining the inimitable nature of the 2EQ insight and proposed interventions.
-- Status: Source document
-- Notes: High-level orientation.
-
 ### The Easy Book
 - Description: A brief exposition of the two-equilibrium model.
-- Status: Source document
-- Notes: Conceptual foundation; introductory outlines, beginner level.
-
-### Something Else
-- Description: Introductory material outlining the two-equilibrium model and the cultural space.
 - Status: Source document
 - Notes: Conceptual foundation; introductory outlines, beginner level.
 
@@ -60,15 +60,10 @@ The following documents are considered **core reference materials** for understa
 - Notes: Focusing on apex positive functioning (what that looks like) and how it is impacted by the underlying subversive event.
 
 ### The Transition
-- Description: A brief two part overview of the proposed transition event in the individual (the singular removal of the subversion) and what that will entail.
+- Description: A brief overview of the proposed transition event in the individual (the singular removal of the subversion) and what that will entail.
 - Status: Source document
-- Notes: This was an answer to a question posed by a research scientist - wo asked for a two page descrption of the intervention and underlying mechanisms.
+- Notes: This was an answer to a question posed by a research scientist - who asked for a two page descrption of the intervention and underlying mechanisms.
 
-### 2eq Hostile Skeptical Rebuttal
-- Description: The Singular Motivational Subversion Hypothesis - a Steelman Critique (for scientists).
-- Status: Source document
-- Notes: Designed as a resource for serious thinkers and researchers wishing to test the framework. 
-   
 ---
 
 ## Supporting and contextual documents
